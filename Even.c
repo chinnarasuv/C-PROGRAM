@@ -4,13 +4,13 @@ void main()
   int a;
   printf("Enter the number:");
   scanf("%d", &a);
-  if( a==0)
+  if( a%2==0)
     {
       printf(" The given no is even");
     }
-   else
+  else
     {
-    printf(" Odd"(;
+    printf(" Odd");
     }
 }
     
