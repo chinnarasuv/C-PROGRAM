@@ -10,11 +10,11 @@ void main()
     }
   else if(b>c)
     {
-      printf("B is geater\n");
+      printf("B is greater\n");
     }
   else
     {
-      printf(" C is gerater");
+      printf(" C is greater");
     }
     
  }
