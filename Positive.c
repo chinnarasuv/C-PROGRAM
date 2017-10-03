@@ -5,11 +5,11 @@ void main()
  float a;
  printf("Enter the no:");
  scanf("%f", &a);
- if(a<0)
+ if(a>0)
  {
   printf("Given no is positive");
  }
- else if
+ else if(a<0)
  {
   printf("Given no is negative");
  }
